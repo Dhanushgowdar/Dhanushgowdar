@@ -51,12 +51,6 @@ Currently, I'm expanding my skills in **AWS, DevOps, Java, Selenium, and Softwar
 * Computer Vision
 * OpenCV
 
-### Testing
-
-* Java
-* Selenium
-* Software Testing / SDET
-
 ---
 
 ## 🚀 Featured Projects
@@ -151,9 +145,6 @@ A robotic system focused on **pathway detection and obstacle avoidance** for aut
 ```text
 AWS
 DevOps
-Java
-Selenium
-Software Testing / SDET
 Cloud Technologies
 ```
 
@@ -168,7 +159,6 @@ I'm interested in opportunities related to:
 * 💻 Software Development
 * ☁️ AWS / Cloud Engineering
 * ⚙️ DevOps
-* 🧪 Software Testing / SDET
 * 🤖 AI / Machine Learning
 * 🌐 Web Development
 
