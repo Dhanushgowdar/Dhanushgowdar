@@ -4,7 +4,7 @@
 
 I'm a **B.E. Information Science & Engineering graduate** with hands-on experience in **software development, AI/ML, database management, and web technologies**. I enjoy building practical solutions, learning new technologies, and solving real-world problems through software.
 
-Currently, I'm expanding my skills in **AWS, DevOps, Java, Selenium, and Software Testing**.
+Currently, I'm expanding my skills in **AWS, DevOps**.
 
 ---
 
@@ -16,7 +16,6 @@ Currently, I'm expanding my skills in **AWS, DevOps, Java, Selenium, and Softwar
 * 🤖 Interested in **AI/ML and Natural Language Processing**
 * 🌐 Experience in **Web Development**
 * 🗄️ Experienced with **MySQL & Database Management**
-* 🧪 Learning **SDET, Java & Selenium**
 * 🧠 Strong in **Problem-Solving & Analytical Thinking**
 * 📍 Bengaluru, India
 
@@ -146,6 +145,8 @@ A robotic system focused on **pathway detection and obstacle avoidance** for aut
 AWS
 DevOps
 Cloud Technologies
+GIT
+GitHub
 ```
 
 I'm continuously improving my technical skills through hands-on practice and real-world projects.
